@@ -1,4 +1,4 @@
-# Task Tracker CLI
+# Task Tracker CLI   https://roadmap.sh/projects/task-tracker
 
 ## 🇷🇺 Описание (Russian)
 
@@ -70,5 +70,4 @@ Task Tracker CLI is a simple C# console application for managing your task list 
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-hed-to-github-packages-being-treated-as-a-package)
-[9](https://choosealicense.com/licenses/mit/)
+
