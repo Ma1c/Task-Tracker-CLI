@@ -14,7 +14,7 @@ Task Tracker CLI — простое консольное приложение н
 ### Как использовать
 1. Клонируйте репозиторий:  
    ```sh
-   git clone https://github.com/yourusername/task-tracker-cli.git
+   git clone https://github.com/Ma1c/task-tracker-cli.git
    ```
 2. Откройте проект в Visual Studio или другой C# IDE
 3. Соберите и запустите `Program.cs`
@@ -50,7 +50,7 @@ Task Tracker CLI is a simple C# console application for managing your task list 
 ### How to use
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/task-tracker-cli.git
+   git clone https://github.com/Ma1c/task-tracker-cli.git
    ```
 2. Open the project in Visual Studio or any C# IDE
 3. Build and run `Program.cs`
