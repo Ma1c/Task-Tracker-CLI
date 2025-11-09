@@ -1,0 +1,14 @@
+C:\Users\retir\source\repos\Task Tracker CLI\bin\Debug\net9.0\Task Tracker CLI.exe
+C:\Users\retir\source\repos\Task Tracker CLI\bin\Debug\net9.0\Task Tracker CLI.deps.json
+C:\Users\retir\source\repos\Task Tracker CLI\bin\Debug\net9.0\Task Tracker CLI.runtimeconfig.json
+C:\Users\retir\source\repos\Task Tracker CLI\bin\Debug\net9.0\Task Tracker CLI.dll
+C:\Users\retir\source\repos\Task Tracker CLI\bin\Debug\net9.0\Task Tracker CLI.pdb
+C:\Users\retir\source\repos\Task Tracker CLI\obj\Debug\net9.0\Task Tracker CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\retir\source\repos\Task Tracker CLI\obj\Debug\net9.0\Task Tracker CLI.AssemblyInfoInputs.cache
+C:\Users\retir\source\repos\Task Tracker CLI\obj\Debug\net9.0\Task Tracker CLI.AssemblyInfo.cs
+C:\Users\retir\source\repos\Task Tracker CLI\obj\Debug\net9.0\Task Tracker CLI.csproj.CoreCompileInputs.cache
+C:\Users\retir\source\repos\Task Tracker CLI\obj\Debug\net9.0\Task Tracker CLI.dll
+C:\Users\retir\source\repos\Task Tracker CLI\obj\Debug\net9.0\refint\Task Tracker CLI.dll
+C:\Users\retir\source\repos\Task Tracker CLI\obj\Debug\net9.0\Task Tracker CLI.pdb
+C:\Users\retir\source\repos\Task Tracker CLI\obj\Debug\net9.0\Task Tracker CLI.genruntimeconfig.cache
+C:\Users\retir\source\repos\Task Tracker CLI\obj\Debug\net9.0\ref\Task Tracker CLI.dll
